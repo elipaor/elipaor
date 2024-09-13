@@ -1,0 +1,6 @@
+- Hi, I’m @elipaor
+- I’m interested in programming as a hobby/side, although wanting to main in pre-med to become a Surgeon!
+- I’m currently in High School as a Senior.
+- I’m also learning how to program things such as javascript, python, html, and c++
+- Pronouns: He/Him
+- Fun Fact: I can play the Violin.
